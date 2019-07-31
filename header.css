@@ -1,0 +1,26 @@
+header{
+    background-color: #e24647;
+}
+
+h1,a{
+    color: #fff;
+}
+
+h1{
+    font-size: 40px;
+    font-family: Arial;
+    display: inline
+}
+
+a{
+    text-decoration: none;
+    font-family: 'SegoeUI';
+}
+
+ul{
+    float: right;
+}
+
+li{
+    display: inline
+}
