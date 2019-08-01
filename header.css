@@ -17,10 +17,6 @@ a{
     font-family: 'SegoeUI';
 }
 
-ul{
+nav{
     float: right;
-}
-
-li{
-    display: inline
 }
